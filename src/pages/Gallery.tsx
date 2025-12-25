@@ -12,6 +12,16 @@ import pastaSalad from "@/assets/pasta-salad.jpg";
 import cappuccino from "@/assets/cappuccino.jpg";
 import dishView from "@/assets/dish-view.jpg";
 import stairs from "@/assets/stairs.jpg";
+import carbonara from "@/assets/carbonara.jpg";
+import crabs from "@/assets/crabs.jpg";
+import crepes from "@/assets/crepes.jpg";
+import shrimpDish from "@/assets/shrimp-dish.jpg";
+import penne from "@/assets/penne.jpg";
+import gardenSalad from "@/assets/garden-salad.jpg";
+import seafoodPlatter from "@/assets/seafood-platter.jpg";
+import beefSteak from "@/assets/beef-steak.jpg";
+import personalPizza from "@/assets/personal-pizza.jpg";
+import seafoodCarbonara from "@/assets/seafood-carbonara.jpg";
 
 const galleryImages = [
   { src: heroNight, alt: "Pedlar's Inn at night", category: "ambiance" },
@@ -24,6 +34,16 @@ const galleryImages = [
   { src: pastaSalad, alt: "Pasta with salad", category: "food" },
   { src: cappuccino, alt: "Signature cappuccino", category: "food" },
   { src: dishView, alt: "Dinner with a view", category: "food" },
+  { src: carbonara, alt: "Classic carbonara pasta", category: "food" },
+  { src: crabs, alt: "Spiced chili crabs", category: "food" },
+  { src: crepes, alt: "Chocolate drizzled crepes", category: "food" },
+  { src: shrimpDish, alt: "Shrimp with tropical cocktail", category: "food" },
+  { src: penne, alt: "Penne arrabiata", category: "food" },
+  { src: gardenSalad, alt: "Fresh garden salad", category: "food" },
+  { src: seafoodPlatter, alt: "Seafood platter", category: "food" },
+  { src: beefSteak, alt: "Grilled beef steak", category: "food" },
+  { src: personalPizza, alt: "Personal artisan pizza", category: "food" },
+  { src: seafoodCarbonara, alt: "Seafood carbonara", category: "food" },
 ];
 
 const Gallery = () => {
